@@ -18,7 +18,7 @@ def div(num1, num2):
     print(sum)
 
 
-def sqaure(num):
+def square(num):
     sum = num*num
     print(sum)
 
